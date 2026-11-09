@@ -74,12 +74,12 @@ I'm also involved in building digital products and software solutions through **
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=habib-rmhn&repo=meal-management-system&theme=dark&hide_border=false" alt="Project 2"/>
 </a>
 
-<a href="https://github.com/habib-rmhn/YOUR-REPO-3">
+<!-- <a href="https://github.com/habib-rmhn/YOUR-REPO-3">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=habib-rmhn&repo=YOUR-REPO-3&theme=dark&hide_border=false" alt="Project 3"/>
 </a>
 <a href="https://github.com/habib-rmhn/YOUR-REPO-4">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=habib-rmhn&repo=YOUR-REPO-4&theme=dark&hide_border=false" alt="Project 4"/>
-</a>
+</a> -->
 
 </div>
 
